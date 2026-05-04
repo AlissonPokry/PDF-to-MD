@@ -1,0 +1,8 @@
+target/
+.venv/
+__pycache__/
+.pytest_cache/
+pytest-cache-files-*/
+*.egg-info/
+Arquivos-Secretos-01.md
+PUT_FILE_HERE/Markdown files/*.md
